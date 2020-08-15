@@ -1,1 +1,1 @@
-ReactJS + TypeScript Project
+React CRA TypeScript boilerplate
